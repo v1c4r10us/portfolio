@@ -35,18 +35,18 @@
 
 **`Bot de alertas sísmicas (SismoBot)`** 
 
-Despliegue de un sistema de alertas sismicas a través de Telegram en tiempo real, en base a la información proporcionada por los centros sismólogicos de Estados Unidos, Japón y Chile.
+Despliegue de un sistema de alertas sismicas a través de Telegram en tiempo real, en base a la información proporcionada por los centros sismólogicos de Estados Unidos, Japón y Chile. [Ver más ...](https://edgard-huanca.streamlit.app/?file=sismic-alert.md)
 
 *Stack-tecnológico: Python, GCP, Docker, Apache NiFi, MongoDB*
 
 **`DataViz & story-telling (VirginMobile)`**
 
-Elaboración de un completo data-story-telling del sector de telecomunicaciones con enfoque principal en 'acceso a internet' para la empresa VirginMobile. Los datos empleados provienen del repositorio de ENACOM del gobierno argentino.
+Elaboración de un completo data-story-telling del sector de telecomunicaciones con enfoque principal en 'acceso a internet' para la empresa VirginMobile. Los datos empleados provienen del repositorio de ENACOM del gobierno argentino. [Ver más ...](https://edgard-huanca.streamlit.app/?file=dataviz-pi.md)
 
 *Stack-tecnológico: Python, PowerBI*
 
 **`DataEngineering of streaming platforms (StreamAPI)`**
 
-Proyecto con enfoque MLOps, basado en el tratamiento de los datos de las principales plataformas de streaming: Amazon prime, Netflix, Disney+ y hulu; en donde se efectúa la ingesta, tratamiento y la implementación de un modelo de recomendación de películas.
+Proyecto con enfoque MLOps, basado en el tratamiento de los datos de las principales plataformas de streaming: Amazon prime, Netflix, Disney+ y hulu; en donde se efectúa la ingesta y el tratamiento de alrededor de 30M de registros, asimismo se realiza la implementación de un modelo de recomendación de películas en función al rating de preferencia y el género. [Ver más ...](https://edgard-huanca.streamlit.app/?file=stream-api.md)
 
 *Stack-tecnológico: Python, FastAPI, SciKit-Learn*
