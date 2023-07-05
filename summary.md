@@ -1,5 +1,5 @@
 <h1 align="center">Edgard Huanca Quispe</h1>
-<p align="center"><a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qz1W8eyJtE4ZcNqU_RjAEi8onq4iRMC8itVEOICYlexq_wop2DSmJQdR4E1f4Zxh3dq0rjJHGuUiIisAPSpMnBfh8pIA=s2560?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qz1W8eyJtE4ZcNqU_RjAEi8onq4iRMC8itVEOICYlexq_wop2DSmJQdR4E1f4Zxh3dq0rjJHGuUiIisAPSpMnBfh8pIA=s2560" width="120"/> </a></p>
+<p align="center"><a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qz1W8eyJtE4ZcNqU_RjAEi8onq4iRMC8itVEOICYlexq_wop2DSmJQdR4E1f4Zxh3dq0rjJHGuUiIisAPSpMnBfh8pIA=s2560?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qz1W8eyJtE4ZcNqU_RjAEi8onq4iRMC8itVEOICYlexq_wop2DSmJQdR4E1f4Zxh3dq0rjJHGuUiIisAPSpMnBfh8pIA=s2560" width="300"/> </a></p>
 
 ## Contact
 
