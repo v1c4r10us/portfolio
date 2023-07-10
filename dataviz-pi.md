@@ -1,3 +1,7 @@
+<p align="right"><a href="https://github.com/v1c4r10us/dataviz-pi"><img src="https://img.shields.io/badge/view%20on%20github-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/></a></p>
+
+***
+
 ```plaintext
 ██████╗  █████╗ ████████╗ █████╗     ██╗   ██╗██╗███████╗
 ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██║   ██║██║╚══███╔╝
@@ -36,9 +40,9 @@ Se ha establecido los siguientes indicadores clave para el estudio:
 
 ## Visualizaciones
 
-<p align="center"><a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pzcHp2exUp8zQf-E_MHIwO0LVs776F8CuFi4oqrYDPD0C133M8VS9sKsSFvLp0QjM6b_itiukyp1TQEwxGBxekZ9mYfg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pzcHp2exUp8zQf-E_MHIwO0LVs776F8CuFi4oqrYDPD0C133M8VS9sKsSFvLp0QjM6b_itiukyp1TQEwxGBxekZ9mYfg=s1600" /> </a></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1qpjbl92_pJS-H47bPlicCKoYikVAW8_M"></img></p>
 
-<p align="center"><a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oK4Fsxi-F7b7SZ0w3XYpG_lQ7o35G9D4X_bAePqdCRzPOu35ZCvdS5f_XkPini8c7NySYgUEoEqCQjCiSbTaJenlLrLQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oK4Fsxi-F7b7SZ0w3XYpG_lQ7o35G9D4X_bAePqdCRzPOu35ZCvdS5f_XkPini8c7NySYgUEoEqCQjCiSbTaJenlLrLQ=s1600" /> </a></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1HH7fi20P4oAPaQ91nGXtiaE3gq9tiMoD"></img></p>
 
 
 

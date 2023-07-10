@@ -1,6 +1,8 @@
-<h1 align=center> Proyecto Final</h1>
+<p align="right"><a href="https://github.com/v1c4r10us/sismic-alert"><img src="https://img.shields.io/badge/view%20on%20github-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/></a></p>
 
- ## <h1 align=center>**`Sistema de Alerta Sísmica`**</h1>
+***
+
+## <h1 align=center>**`Sistema de Alerta Sísmica`**</h1>
  
  <div >
 <p align="center">
@@ -30,7 +32,7 @@
 
 
 # Arquitectura
-<p align="center"><a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pn1K2r3Y0ci5V_kBxReIyNEMswvWE2OqHGGitdTJni6njZk31VS4P-36my7M0DhwNGDK628JnfYkAm64gNMp3yU4D_ig=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pn1K2r3Y0ci5V_kBxReIyNEMswvWE2OqHGGitdTJni6njZk31VS4P-36my7M0DhwNGDK628JnfYkAm64gNMp3yU4D_ig=s1600" /> </a></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1_TYdxfyH4aocCtHfG-pkNuXNKSxq4Upi"></img></p>
 
 # Esquema de almacenamiento en MongoDB Atlas
 ```json
@@ -89,7 +91,7 @@ Para los modelos, se evaluaron 2 en este proyecto: K-Means y DBSCAN
 
 K-Means
 
-<p align="center"><img src="https://prateekvjoshi.com/2013/06/06/what-is-k-means-clustering/"></img></p>
+<p align="center"><img src="https://i.imgur.com/DMXslDR.png"></img></p>
 
 Se utilizó el "método del codo" para obtener la cantidad óptima de clusters para nuestros servicios, que se calcula a través del error de cada cluster dando como resultado el numero 3.
 De ahí, surge un problema, que el primer cluster contiene sismos que son imperceptibles para las personas, además de su gran cantidad, por lo que no serían un preocupación para nuestros usuarios y, una alerta constante de estos, podría llegar a provocar que lo usuarios se desmotiven en el uso de nuestro servicio y cuando uno de mayor fuerza aparezca, no seguir nuestras recomendaciones.
@@ -98,7 +100,7 @@ Quedando así, los clusters de 1 como el mas fuerte, 2 como el mas débil y 3 co
 
 DBSCAN
 
-<p align="center"><img href="https://python.plainenglish.io/how-does-the-dbscan-algorithm-work-pros-and-cons-of-dbscan-bbdd589d837a"></img></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1e0xPPKtkXwgGv5uEtWXK8C_so7pnCPjX"></img></p>
 
 Este modelo arrojó una cantidad óptima de 38 clusters, por lo que se decidió descartarlo debido a su gran cantidad y también lo poco unforme que estaban distribuidos los datos en los clusters.
 

@@ -1,3 +1,7 @@
+<p align="right"><a href="https://github.com/v1c4r10us/stream-api"><img src="https://img.shields.io/badge/view%20on%20github-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/></a></p>
+
+***
+
 ```plaintext
  _____ _                               ___  ______ _____ 
 /  ___| |                             / _ \ | ___ \_   _|
@@ -30,7 +34,7 @@ Disponemos de los datos de peliculas y series de las 04 principales plataformas 
 
 Los datos de películas de las 04 plataformas se procesan directamente en el lado del servidor; sin embargo para el caso de los ficheros rating, que en total suman alrededor de 11M de registros, procesarlos en su totalidad en el lado del servidor demandaría consumo excesivo de **memoria ram** (más de lo que se proporciona de forma gratuita). Para solucionar este inconveniente y mediante el **EDA**, se sintetiza en 02 nuevos ficheros: *rating_global.csv* (para el request en GET_SCORE_COUNT) y *recsys.csv* (para el request en GET_RECOMMENDATION). El siguiente diagrama representa la arquitectura hasta su despliegue en <a href=https://railway.app/>Railway</a>:
 
-<p align="center"><a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81osu73_IKtJP76dv6BwwdluSZ8AneCQ67LJFostRc7phGuwNtPUr6amASYuuqqS467u_6Kvs1-gYUzzzjOMuJ0mhSE3sg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81osu73_IKtJP76dv6BwwdluSZ8AneCQ67LJFostRc7phGuwNtPUr6amASYuuqqS467u_6Kvs1-gYUzzzjOMuJ0mhSE3sg=s1600" /> </a></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1m4BaoEa1_PW10Ukc_74VXKaqOcAuc--O"></img></p>
 
 ## EDA (Exploratory Data Analysis)
 
