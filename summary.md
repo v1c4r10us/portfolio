@@ -35,9 +35,9 @@
 
 **`Webscraping para extracción masiva de datos`**
 
-Proyecto enfocado a la extracción de datos de paquetes turísticos mediante scraping html y DOM. La información obtenida servirá como base de entrenamiento de chatbot de recomendación. [Ver más ...](https://edgard-huanca.streamlit.app/?file=webscraping-gyg.md)
+Proyecto enfocado a la extracción de datos de paquetes turísticos mediante scraping html y DOM. La información obtenida servirá como base de entrenamiento de un chatbot de recomendación. [Ver más ...](https://edgard-huanca.streamlit.app/?file=webscraping-gyg.md)
 
-*Stack-tecnológico: Python, Selenium, bs4, GCP (cloud-shell)*
+*Stack-tecnológico: Python, Selenium, bs4, GCP (cloud-shell), bash-script*
 
 **`Bot de alertas sísmicas (SismoBot)`** 
 
